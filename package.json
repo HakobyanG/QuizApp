@@ -1,0 +1,20 @@
+{
+  "name": "quizproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodeman server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "n": "^9.2.0"
+  },
+  "devDependencies": {
+    "nodeman": "^1.1.2"
+  }
+}
