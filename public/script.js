@@ -40,7 +40,8 @@ class Quiz {
         this.timeLimitInSeconds = 20;
         this.remainingTime = this.timeLimitInSeconds;
     }
-
+    
+    //ավելացնել ժամանակ
     startTimer() {
         this.timerInterval = setInterval(() => {
             if (this.remainingTime > 0) {

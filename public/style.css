@@ -39,7 +39,7 @@ button:hover {
 }
 
 #question-container ul {
-    list-style: none; /* Remove standard list bullet points */
+    list-style: none;
     padding: 0;
 }
 
